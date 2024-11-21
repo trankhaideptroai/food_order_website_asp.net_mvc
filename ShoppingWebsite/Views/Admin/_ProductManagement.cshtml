@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Product>
+
+<h2>Quản lý Sản Phẩm</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            
+            
+            <th>Ảnh</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+               
+               
+                <td>
+                    @if (!string.IsNullOrEmpty(product.Image))
+                    {
+                        <img src="@product.Image" alt="Sản phẩm" style="width:100px; height:100px;" />
+                    }
+                </td>
+                <td>
+                    <a asp-action="CreateProduct" class="btn btn-success">Thêm Sản Phẩm</a>
+                    <a href="@Url.Action("EditProduct", "Admin", new { id = product.Id })" class="btn btn-sm btn-warning">Sửa</a>
+                    <a href="@Url.Action("DeleteProduct", "Admin", new { id = product.Id })" class="btn btn-sm btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa sản phẩm này?')">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

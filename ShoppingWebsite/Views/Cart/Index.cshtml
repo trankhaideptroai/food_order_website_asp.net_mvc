@@ -1,0 +1,168 @@
+﻿@model List<CartItem>
+
+<h1 class="cart-title">Giỏ hàng </h1>
+
+<table class="table table-striped cart-table">
+    <thead>
+        <tr>
+            <th>Tên</th>
+            <th>Giá</th>
+            <th>Số lượng</th>
+            <th>Tổng</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="row-for-product-@item.ProductId">
+                <td>@item.ProductName</td>
+                <td>@String.Format("{0:N0} VND", item.Price)</td> <!-- Định dạng tiền tệ VND -->
+                <td>
+                    <button class="btn btn-sm btn-outline-secondary quantity-btn"
+                            onclick="updateCart(@item.ProductId, @item.Quantity - 1)">
+                        -
+                    </button>
+                    <span id="quantity-for-product-@item.ProductId">@item.Quantity</span>
+                    <button class="btn btn-sm btn-outline-secondary quantity-btn"
+                            onclick="updateCart(@item.ProductId, @item.Quantity + 1)">
+                        +
+                    </button>
+                </td>
+
+
+                <td class="total-price">@String.Format("{0:N0} VND", item.Price * item.Quantity)</td> <!-- Định dạng tổng tiền -->
+                <td>
+                    <button class="btn btn-danger remove-btn" onclick="removeFromCart(@item.ProductId)">Xoá sản phẩm</button>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Display total price -->
+<p class="cart-total">Tổng Tiền: @String.Format("{0:N0} VND", Model.Sum(item => item.Price * item.Quantity))</p>
+
+<!-- Checkout button -->
+<!-- Checkout button -->
+<form asp-action="Checkout" method="post">
+    <button type="submit" class="btn btn-success checkout-btn">Đặt hàng</button>
+</form>
+
+
+<!-- Script to update or remove cart items using AJAX -->
+<script>
+    function updateCart(productId, newQuantity) {
+        if (newQuantity < 1) {
+            alert('Số lượng không thể nhỏ hơn 1.');
+            return;
+        }
+
+        $.ajax({
+            url: '@Url.Action("UpdateCart", "Cart")', // Đường dẫn đến action
+            type: 'POST',
+            data: { productId: productId, quantity: newQuantity },
+            success: function () {
+                location.reload(); // Reload lại trang sau khi thành công
+            },
+            error: function () {
+                alert('Đã xảy ra lỗi, vui lòng thử lại.');
+            }
+        });
+    }
+
+
+
+    function removeFromCart(productId) {
+        $.ajax({
+            url: '@Url.Action("RemoveFromCart", "Cart")',
+            type: 'POST',
+            data: { productId: productId },
+            success: function (response) {
+                // Xoá sản phẩm khỏi DOM
+                $(`#row-for-product-${productId}`).remove();
+
+                // Cập nhật tổng tiền giỏ hàng
+                $('#cart-total').text(response.cartTotal);
+            },
+            error: function () {
+                alert('Đã xảy ra lỗi, vui lòng thử lại.');
+            }
+        });
+    }
+
+</script>
+<script>
+    function removeFromCart(productId) {
+        $.ajax({
+            url: '@Url.Action("RemoveFromCart", "Cart")',
+            type: 'POST',
+            data: { productId: productId },
+            success: function (response) {
+                location.reload(); // Reload the page to reflect the updated cart
+            }
+        });
+    }
+</script>
+
+<style>
+    .cart-title {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 2em;
+    }
+
+    .cart-table {
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .cart-table th, .cart-table td {
+        padding: 15px;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .cart-table th {
+        background-color: #f8f9fa;
+        font-weight: bold;
+    }
+
+    .quantity-input {
+        width: 60px;
+        text-align: center;
+    }
+
+    .remove-btn {
+        padding: 5px 10px;
+        font-size: 0.9em;
+    }
+
+    .cart-total {
+        text-align: right;
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+
+    .checkout-btn {
+        display: block;
+        width: 200px;
+        margin: 20px auto;
+        padding: 10px 20px;
+        font-size: 1.2em;
+    }
+
+    /* Optional: Add hover effects */
+    .checkout-btn:hover {
+        background-color: #28a745;
+        color: white;
+    }
+
+    .remove-btn:hover {
+        background-color: #dc3545;
+        color: white;
+    }
+</style>

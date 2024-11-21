@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Customer>
+
+<h2>Quản lý Khách Hàng</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tên đăng nhập</th>
+            <th>Email</th>
+            <th>Vai trò</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Username</td>
+                <td>@customer.Email</td>
+                <td>@customer.Role</td>
+                <td>
+                    <a asp-action="CreateCustomer" class="btn btn-success">Thêm Khách Hàng</a>
+                    <a href="@Url.Action("EditCustomer", "Admin", new { id = customer.Id })" class="btn btn-sm btn-warning">Sửa</a>
+                    <a href="@Url.Action("DeleteCustomer", "Admin", new { id = customer.Id })" class="btn btn-sm btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa khách hàng này?')">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

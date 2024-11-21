@@ -1,0 +1,119 @@
+﻿@model ShoppingWebsite.Models.Customer
+<div class="container">
+    <h2 class="text-center">Đăng ký</h2>
+    <form asp-action="Register" method="post" class="form-signin">
+        <div class="form-group">
+            <label asp-for="Username"></label>
+            <input asp-for="Username" class="form-control" />
+            <span asp-validation-for="Username" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" type="password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="FullName">Họ tên</label>
+            <input asp-for="FullName" class="form-control" />
+            <span asp-validation-for="FullName" class="text-danger"></span>
+        </div>
+
+        <!-- Thêm trường Address -->
+        <div class="form-group">
+            <label asp-for="Address">Địa chỉ</label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <!-- Thêm trường Phone -->
+        <div class="form-group">
+            <label asp-for="Phone">Số điện thoại</label>
+            <input asp-for="Phone" class="form-control" />
+            <span asp-validation-for="Phone" class="text-danger"></span>
+        </div>
+
+        <input type="hidden" asp-for="Role" value="Customer" />
+
+        <button type="submit" class="btn btn-primary btn-block">Đăng ký</button>
+    </form>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success text-center">@TempData["SuccessMessage"]</div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger text-center">@TempData["ErrorMessage"]</div>
+    }
+</div>
+<style>
+    .container {
+        max-width: 400px; /* Giới hạn chiều rộng của form */
+        margin: 0 auto; /* Căn giữa form trong trang */
+        padding: 20px; /* Padding xung quanh form */
+        background-color: #f9f9f9; /* Màu nền nhạt để tạo sự tương phản */
+        border-radius: 10px; /* Bo tròn các góc */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Đổ bóng để nổi bật form */
+    }
+
+    .form-signin {
+        margin-top: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px; /* Khoảng cách giữa các input */
+        display: flex;
+        flex-direction: column; /* Đảm bảo nhãn và input theo cột */
+    }
+
+        .form-group label {
+            font-weight: bold; /* Làm nổi bật nhãn */
+            margin-bottom: 5px; /* Khoảng cách giữa nhãn và input */
+        }
+
+        .form-group input {
+            width: 100%; /* Input chiếm toàn bộ chiều rộng */
+            height: 40px; /* Đảm bảo chiều cao đồng đều */
+            padding: 10px; /* Padding bên trong input */
+            border: 1px solid #ccc; /* Viền nhẹ nhàng */
+            border-radius: 5px; /* Bo tròn các góc */
+            font-size: 16px; /* Kích thước chữ rõ ràng */
+        }
+
+            .form-group input:focus {
+                border-color: #007bff; /* Đổi màu viền khi input được chọn */
+                outline: none; /* Xóa viền mặc định */
+                box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Đổ bóng khi focus */
+            }
+
+    .btn-block {
+        width: 100%; /* Nút đăng ký chiếm toàn bộ chiều rộng */
+        padding: 10px 15px; /* Padding để nút trông cân đối */
+        font-size: 18px; /* Kích thước chữ lớn hơn */
+        font-weight: bold; /* Chữ in đậm */
+        background-color: #007bff; /* Màu xanh chủ đạo */
+        color: #fff; /* Chữ trắng */
+        border: none; /* Xóa viền nút */
+        border-radius: 5px; /* Bo tròn nút */
+        cursor: pointer; /* Thay đổi con trỏ khi hover */
+        transition: background-color 0.3s ease; /* Hiệu ứng chuyển đổi màu */
+    }
+
+        .btn-block:hover {
+            background-color: #0056b3; /* Màu xanh đậm hơn khi hover */
+        }
+
+    .alert {
+        margin-top: 20px; /* Khoảng cách phía trên thông báo */
+        font-size: 14px; /* Kích thước chữ thông báo */
+    }
+</style>

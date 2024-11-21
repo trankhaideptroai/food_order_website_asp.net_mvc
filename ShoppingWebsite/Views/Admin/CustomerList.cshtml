@@ -1,0 +1,110 @@
+﻿@model IEnumerable<ShoppingWebsite.Models.Customer>
+
+<h2>Danh sách khách hàng</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Họ và tên</th>
+            <th>Email</th>
+            <th>Địa chỉ</th>
+            <th>Số điện thoại</th>
+            <th>Vai trò</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.FullName</td>
+                <td>@customer.Email</td>
+                <td>@customer.Address</td>
+                <td>@customer.Phone</td>
+                <td>@customer.Role</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="EditCustomer" asp-route-id="@customer.Id">Chỉnh sửa</a>
+                    <a class="btn btn-danger" asp-action="DeleteCustomer" asp-route-id="@customer.Id">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a class="btn btn-primary" asp-action="CreateCustomer">Thêm khách hàng</a>
+<style>
+    /* General styling for the customer list container */
+    h2 {
+        text-align: center;
+        font-size: 28px;
+        color: #333;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* Table styling */
+    .table {
+        width: 100%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-size: 16px;
+    }
+
+        .table thead th {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .table tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .table td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            vertical-align: middle;
+        }
+
+    /* Button styling */
+    .btn {
+        padding: 8px 12px;
+        font-size: 14px;
+        border-radius: 4px;
+        color: white;
+        text-decoration: none;
+        margin-right: 5px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-warning {
+        background-color: #ffc107;
+        border: none;
+    }
+
+        .btn-warning:hover {
+            background-color: #e0a800;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border: none;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+        }
+
+</style>            

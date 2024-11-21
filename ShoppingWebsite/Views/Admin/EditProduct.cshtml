@@ -1,0 +1,108 @@
+﻿@model ShoppingWebsite.Models.Product
+
+<h2>Chỉnh sửa Sản Phẩm</h2>
+
+<form asp-action="EditProduct">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+    </div>
+ 
+  
+    <div class="form-group">
+        <label for="CategoryId">Danh mục</label>
+        <select id="CategoryId" name="CategoryId" class="form-control" asp-for="CategoryId">
+            <option value="">-- Chọn danh mục --</option>
+            <option value="1">Electronic</option>
+            <option value="2">Clothings</option>
+            <option value="3">Home Appliances</option>
+            <option value="4">Hand Made</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image"></label> <!-- Trường Image có thể được chỉnh sửa -->
+        <input asp-for="Image" class="form-control" />
+        <div class="form-group">
+         <label asp-for="Description"></label> <!-- Trường Image có thể được chỉnh sửa -->
+          <input asp-for="Description" class="form-control" />
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
+<style>    /* Container styling for the edit product form */
+    form {
+        max-width: 500px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 28px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    /* Form group styling */
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+    /* Button styling */
+    button[type="submit"],
+    .btn-secondary {
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 15px;
+        margin-right: 5px;
+    }
+
+    button[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        color: #fff;
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+</style>

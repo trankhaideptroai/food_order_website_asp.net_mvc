@@ -1,0 +1,168 @@
+/* _content/ShoppingWebsite/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-c774vjf1do] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-c774vjf1do] {
+  color: #0077cc;
+}
+
+.btn-primary[b-c774vjf1do] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-c774vjf1do], .nav-pills .show > .nav-link[b-c774vjf1do] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-c774vjf1do] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-c774vjf1do] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-c774vjf1do] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-c774vjf1do] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-c774vjf1do] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+body[b-c774vjf1do] {
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar[b-c774vjf1do], .footer[b-c774vjf1do] {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+.dark-mode body[b-c774vjf1do] {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .navbar[b-c774vjf1do], .dark-mode .footer[b-c774vjf1do] {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.dark-mode button[b-c774vjf1do], .dark-mode input[b-c774vjf1do] {
+    background-color: #444444;
+    color: #ffffff;
+    border: 1px solid #666666;
+}
+
+.dark-mode a[b-c774vjf1do] {
+    color: #90caf9;
+}
+
+    .dark-mode a:hover[b-c774vjf1do] {
+        color: #42a5f5;
+    }
+/* Mặc định */
+.navbar[b-c774vjf1do] {
+    background-color: #f8f9fa;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Navbar trong Dark Mode */
+.dark-mode .navbar[b-c774vjf1do] {
+    background-color: #222222 !important;
+    color: #ffffff !important;
+    border-bottom: 1px solid #444444;
+}
+
+    /* Link trong navbar khi ở Dark Mode */
+    .dark-mode .navbar a.nav-link[b-c774vjf1do] {
+        color: #90caf9 !important;
+    }
+
+        .dark-mode .navbar a.nav-link:hover[b-c774vjf1do] {
+            color: #42a5f5 !important;
+        }
+
+/* Đổi màu cho toggler (nếu có) */
+.dark-mode .navbar-toggler[b-c774vjf1do] {
+    border-color: #ffffff !important;
+}
+
+.dark-mode .navbar-toggler-icon[b-c774vjf1do] {
+    background-image: url("data:image/svg+xml;charset=UTF8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28white, 1%29' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+
+/* Footer trong Dark Mode */
+.dark-mode .footer[b-c774vjf1do] {
+    background-color: #222222;
+    color: #ffffff;
+}
+
+/* Product card mặc định */
+.product-card[b-c774vjf1do] {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #ddd;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Product card trong Dark Mode */
+.dark-mode .product-card[b-c774vjf1do] {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #555;
+}
+/* Label mặc định trong Light Mode */
+label[b-c774vjf1do] {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+/* Label trong Dark Mode */
+.dark-mode label[b-c774vjf1do] {
+    color: #ffffff;
+}
+/* Mặc định cho các nav-link khi ở Light Mode */
+.navbar .nav-link[b-c774vjf1do] {
+    color: #000000; /* Màu chữ đen */
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+    /* Màu chữ khi hover trong Light Mode */
+    .navbar .nav-link:hover[b-c774vjf1do] {
+        color: #007bff; /* Màu chữ xanh khi hover */
+        background-color: #f8f9fa; /* Màu nền sáng khi hover */
+    }
+
+/* Khi ở Dark Mode, điều chỉnh màu sắc của navbar */
+.dark-mode .navbar .nav-link[b-c774vjf1do] {
+    color: #ffffff; /* Màu chữ trắng */
+}
+
+    /* Màu chữ khi hover trong Dark Mode */
+    .dark-mode .navbar .nav-link:hover[b-c774vjf1do] {
+        color: #90caf9; /* Màu chữ sáng hơn khi hover */
+        background-color: #444444; /* Màu nền xám khi hover trong Dark Mode */
+    }

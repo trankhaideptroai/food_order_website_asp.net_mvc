@@ -1,0 +1,1290 @@
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+C:\Users\TranKhai\source\repos\ShoppingWebsite\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+C:\Users\TranKhai\Documents\ShoppingWebsite_ASM_C#3_TranTanKhai_PS40102\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+C:\Users\TranKhai\Downloads\asp.net_mvc_shopping_website-main (1)\asp.net_mvc_shopping_website-main\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.sourcelink.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+C:\Users\TranKhai\Documents\GitHub\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.sourcelink.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+D:\FILE C#\ASMC#4\ASM2\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.sourcelink.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+D:\FILE C#\C#4\ASMC#4\ASM2\asm\asp.net_mvc_shopping_website\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+D:\Downloads\Nộp bài\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40138_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.staticwebassets.runtime.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.exe
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.deps.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.runtimeconfig.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Humanizer.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.AssemblyReference.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfoInputs.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.AssemblyInfo.cs
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.RazorAssemblyInfo.cs
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ShoppingWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoppingWebsite.props
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\bundle\ShoppingWebsite.styles.css
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ShoppingWebsite.bundle.scp.css
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\Shopping.44F4E7BB.Up2Date
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\refint\ShoppingWebsite.dll
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.pdb
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ShoppingWebsite.genruntimeconfig.cache
+C:\Users\TranKhai\Downloads\ASM_C#4\ps40102_ASMC#4\ShoppingWebsite\obj\Debug\net8.0\ref\ShoppingWebsite.dll

@@ -1,0 +1,13 @@
+﻿@model ShoppingWebsite.Models.Product
+
+<div class="product-details">
+    <h1>@Model.Name</h1>
+    <img src="@Model.Image" alt="@Model.Name" />
+    <p>Giá: @Model.Price VND</p>
+    <p>mô tả: @Model.Description </p>
+   
+    <form asp-action="AddToCart" asp-controller="Cart" method="post">
+        <input type="hidden" name="productId" value="@Model.Id" />
+        <button type="submit">Thêm vào giỏ hàng</button>
+    </form>
+</div>

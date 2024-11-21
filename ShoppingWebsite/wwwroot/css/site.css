@@ -1,0 +1,340 @@
+﻿/* Reset một số kiểu mặc định để nhất quán giữa các trình duyệt */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    min-height: 100%;
+    position: relative;
+    padding-bottom: 60px; /* Đảm bảo footer không đè lên nội dung */
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #258cfb;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Hiển thị lưới sản phẩm */
+    gap: 20px; /* Khoảng cách giữa các sản phẩm */
+    padding: 20px;
+}
+
+li {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+    li:hover {
+        transform: scale(1.05);
+    }
+
+    li img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+form {
+    text-align: center;
+    margin: 20px 0;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.2s ease-in-out;
+}
+
+    input[type="text"]:focus {
+        border-color: #258cfb;
+    }
+
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #258cfb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    margin-left: 10px;
+}
+
+    button[type="submit"]:hover {
+        background-color: #007bff;
+    }
+/* Chỉnh sửa cho các liên kết sản phẩm */
+a {
+    text-decoration: none;
+    color: #258cfb;
+    font-weight: bold;
+    transition: color 0.2s;
+}
+
+    a:hover {
+        color: #007bff;
+    }
+
+li span {
+    display: block;
+    margin-top: 10px;
+    color: #666;
+}
+
+/* Footer styling nếu có */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+/* Kiểu dáng tổng thể cho khung chi tiết sản phẩm */
+.product-details {
+    max-width: 800px;
+    margin: 20px auto; /* Căn giữa và tạo khoảng cách với lề trên/dưới */
+    padding: 30px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd; /* Đường viền mỏng bao quanh */
+    border-radius: 10px; /* Bo góc khung */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Tạo bóng cho khung */
+    font-family: 'Arial', sans-serif;
+}
+
+    /* Kiểu chữ cho tên sản phẩm */
+    .product-details h1 {
+        font-size: 2.5rem; /* Tăng kích thước chữ cho tên sản phẩm */
+        margin-bottom: 20px;
+        color: #333; /* Màu sắc đậm, dễ nhìn */
+        text-transform: uppercase; /* In hoa tên sản phẩm */
+        font-weight: 700; /* Đậm nét chữ */
+    }
+
+    /* Kiểu chữ cho các chi tiết sản phẩm */
+    .product-details p {
+        font-size: 1.2rem;
+        color: #555; /* Màu xám nhạt hơn để làm nổi bật thông tin */
+        line-height: 1.6;
+        margin-bottom: 15px;
+    }
+
+        /* Phong cách cho giá sản phẩm */
+        .product-details p:first-of-type {
+            font-size: 1.5rem; /* Kích thước chữ lớn hơn cho giá sản phẩm */
+            color: #e74c3c; /* Màu đỏ cho giá để nổi bật */
+            font-weight: 600; /* Đậm chữ */
+        }
+
+        /* Kiểu chữ cho màu sắc và kích thước */
+        .product-details p:nth-of-type(2),
+        .product-details p:nth-of-type(3) {
+            font-size: 1.1rem;
+            color: #333; /* Màu chữ dễ nhìn cho chi tiết sản phẩm */
+        }
+
+    /* Tạo kiểu cho nút thêm vào giỏ hàng */
+    .product-details form {
+        margin-top: 20px;
+    }
+
+input[type="number"] {
+    width: 60px;
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #258cfb;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+    button[type="submit"]:hover {
+        background-color: #007bff;
+    }
+
+/* Hình ảnh sản phẩm */
+.product-details img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 10px; /* Bo góc hình ảnh */
+    border: 2px solid #ddd; /* Đường viền bao quanh hình ảnh */
+}
+/* Align username, logout button, and cart on the same line */
+.navbar .user-info {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between elements */
+}
+
+    .navbar .user-info h3 {
+        margin: 0;
+        font-size: 1rem; /* Adjust font size if needed */
+    }
+
+    .navbar .user-info .btn {
+        padding: 0.3rem 0.7rem;
+    }
+
+.position-relative .badge {
+    font-size: 0.75rem;
+    top: -10px;
+    right: -10px;
+}
+/* Mặc định là Light Mode */
+body {
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar, .footer {
+    background-color: #f8f9fa;
+    color: #000000;
+}
+
+.dark-mode body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .navbar, .dark-mode .footer {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.dark-mode button, .dark-mode input {
+    background-color: #444444;
+    color: #ffffff;
+    border: 1px solid #666666;
+}
+
+.dark-mode a {
+    color: #90caf9;
+}
+
+    .dark-mode a:hover {
+        color: #42a5f5;
+    }
+/* Navbar mặc định */
+.navbar {
+    background-color: #f8f9fa;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Navbar trong Dark Mode */
+.dark-mode .navbar {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+    /* Hover link trong navbar */
+    .dark-mode .navbar a {
+        color: #90caf9;
+    }
+
+        .dark-mode .navbar a:hover {
+            color: #42a5f5;
+        }
+/* Product card mặc định */
+.product-card {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #ddd;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Product card trong Dark Mode */
+.dark-mode .product-card {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #555;
+}
+/* Label mặc định trong Light Mode */
+label {
+    color: #000000;
+    transition: color 0.3s;
+}
+
+/* Label trong Dark Mode */
+.dark-mode label {
+    color: #000000;
+}
+.dark-mode h2 {
+    color: #000000;
+}
+.dark-mode td {
+    color: #ffffff;
+}
+/* Nút mặc định trong Light Mode */
+.btn {
+    background-color: #007bff; /* Màu nền Blue mặc định */
+    color: #ffffff;
+    border: 1px solid #007bff;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    .btn:hover {
+        background-color: #0056b3; /* Màu nền khi hover */
+        border-color: #0056b3;
+    }
+
+/* Nút trong Dark Mode */
+.dark-mode .btn {
+    background-color: #333333; /* Màu nền tối khi dark mode */
+    color: #ffffff;
+    border: 1px solid #555555; /* Viền tối */
+}
+
+    /* Nút hover trong Dark Mode */
+    .dark-mode .btn:hover {
+        background-color: #555555; /* Màu nền khi hover trong Dark Mode */
+        border-color: #777777;
+    }

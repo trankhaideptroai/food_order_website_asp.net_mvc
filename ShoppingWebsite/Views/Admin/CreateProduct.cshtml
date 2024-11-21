@@ -1,0 +1,147 @@
+﻿@model ShoppingWebsite.Models.Product
+
+<h2>Thêm sản phẩm mới</h2>
+
+<form asp-action="CreateProduct" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image"></label>
+        <input asp-for="Image" class="form-control" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+   
+   
+
+    <!-- Dropdown cho CategoryId -->
+    <div class="form-group">
+        <label for="CategoryId">Danh mục</label>
+        <select id="CategoryId" name="CategoryId" class="form-control" asp-for="CategoryId">
+            <option value="">-- Chọn danh mục --</option>
+            <option value="1">hamburger</option>
+            <option value="2">khoaiTayChien</option>
+            <option value="3">Combo</option>
+            <option value="4">Nước</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm sản phẩm</button>
+</form>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+<style>
+    /* General container styling for the product creation form */
+    form {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 28px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    /* Form group styling */
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+            .form-group input[type="number"] {
+                -moz-appearance: textfield; /* Remove spin buttons on Firefox */
+            }
+
+            .form-group input::placeholder,
+            .form-group textarea::placeholder {
+                color: #aaa;
+            }
+
+        .form-group .text-danger {
+            font-size: 14px;
+            color: #d9534f;
+            margin-top: 5px;
+            display: block;
+        }
+
+    /* Success and error message alerts */
+    .alert {
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+
+    .alert-success {
+        background-color: #dff0d8;
+        color: #3c763d;
+        border: 1px solid #d6e9c6;
+    }
+
+    .alert-danger {
+        background-color: #f2dede;
+        color: #a94442;
+        border: 1px solid #ebccd1;
+    }
+
+    /* Button styling */
+    button[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        font-size: 18px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+</style>

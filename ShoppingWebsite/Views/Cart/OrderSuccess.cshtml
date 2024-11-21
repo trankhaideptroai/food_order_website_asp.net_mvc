@@ -1,0 +1,6 @@
+﻿@if (TempData["SuccessMessage"] != null)
+
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+<a href="@Url.Action("Index", "Products")" class="btn btn-primary">Tiếp tục mua sắm</a>

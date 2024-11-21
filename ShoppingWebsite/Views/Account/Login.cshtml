@@ -1,0 +1,138 @@
+﻿@model ShoppingWebsite.Models.Customer
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="login-form">
+    <h2 class="text-center">Đăng nhập</h2>
+    <form asp-action="Login" method="post">
+        <input asp-for="Username" placeholder="Tài khoản" />
+        <input asp-for="Password" type="password" placeholder="Mật khẩu" />
+        <button type="submit">Đăng nhập</button>
+    </form>
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+</div>
+<style>
+    /* Kiểu dáng tổng thể cho form đăng nhập */
+    .login-form {
+        max-width: 400px;
+        margin: 0 auto; /* Căn giữa */
+        padding: 30px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+        /* Kiểu chữ cho các trường nhập liệu */
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+            /* Placeholder styling */
+            .login-form input::placeholder {
+                color: #888;
+            }
+
+        /* Kiểu dáng cho nút đăng nhập */
+        .login-form button[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #258cfb;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .login-form button[type="submit"]:hover {
+                background-color: #007bff;
+            }
+
+        /* Tạo khoảng cách giữa các phần tử */
+        .login-form input,
+        .login-form button {
+            margin-bottom: 20px;
+        }
+    /* Kiểu dáng tổng thể cho form đăng ký */
+    .register-form {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 30px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        font-family: 'Arial', sans-serif;
+    }
+
+        /* Kiểu chữ cho các trường nhập liệu */
+        .register-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+            /* Placeholder styling */
+            .register-form input::placeholder {
+                color: #888;
+            }
+
+        /* Kiểu dáng cho nút đăng ký */
+        .register-form button[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #258cfb;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .register-form button[type="submit"]:hover {
+                background-color: #007bff;
+            }
+
+        /* Tạo khoảng cách giữa các phần tử */
+        .register-form input,
+        .register-form button {
+            margin-bottom: 20px;
+        }
+    /* Định dạng cho khung chứa nút đăng nhập */
+    .login-button-container {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+        /* Định dạng cho nút đăng nhập */
+        .login-button-container a {
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            color: white;
+            background-color: #258cfb;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+            /* Hiệu ứng khi hover lên nút */
+            .login-button-container a:hover {
+                background-color: #007bff;
+            }
+</style>

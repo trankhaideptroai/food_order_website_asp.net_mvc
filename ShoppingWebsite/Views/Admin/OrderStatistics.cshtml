@@ -1,0 +1,101 @@
+﻿@model List<ShoppingWebsite.Models.Order>
+
+<h2>Thống Kê Đơn Hàng</h2>
+
+<!-- Date Filter Form -->
+<div class="form-group mb-0 mr-2">
+    <label for="selectedDate" class="mr-2">Chọn Ngày Thống Kê:</label>
+    <input type="text" id="selectedDate" class="form-control date-picker" placeholder="dd/MM/yyyy" onchange="filterOrdersByDate()" />
+</div>
+
+<hr />
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Ngày Đặt Hàng</th>
+            <th>Khách Hàng</th>
+            <th>Trạng Thái</th>
+            <th>Tổng Tiền</th>
+            <th>Địa Chỉ</th>
+            <th>Số Điện Thoại</th>
+            <th>Chỉnh Sửa Trạng Thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var order in Model)
+            {
+                <tr class="order-row" data-order-date="@order.OrderDate.ToString("dd/MM/yyyy")">
+                    <td>@order.OrderDate.ToString("dd/MM/yyyy")</td>
+                    <td>@order.Customer.FullName</td>
+                    <td>@order.OrderStatus</td>
+                    <td>@order.TotalAmount.ToString("C")</td>
+                    <td>@order.Address</td>
+                    <td>@order.Phone</td>
+                    <td>
+                        <form asp-action="UpdateOrderStatus" asp-controller="Admin" method="post" style="display:inline;">
+                            <input type="hidden" name="orderId" value="@order.OrderId" />
+                            <select name="status" class="form-control" onchange="this.form.submit()">
+                                <option value="">-- Chọn danh mục --</option>
+                                <option value="Pending">Chờ xử lý</option>
+                                <option value="Shipped">Đã giao hàng</option>
+                                <option value="Completed">Hoàn thành</option>
+                                <option value="Canceled">Đã hủy</option>
+                            </select>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7" class="text-center">Không có đơn hàng nào cho ngày đã chọn.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function filterOrdersByDate() {
+        // Lấy giá trị ngày từ input và kiểm tra định dạng dd/MM/yyyy
+        const selectedDateInput = document.getElementById("selectedDate").value;
+        const datePattern = /^\d{2}\/\d{2}\/\d{4}$/;
+
+        // Kiểm tra nếu ngày nhập vào đúng định dạng dd/MM/yyyy
+        if (!datePattern.test(selectedDateInput)) {
+            alert("Vui lòng nhập ngày theo định dạng dd/MM/yyyy");
+            return;
+        }
+
+        const [day, month, year] = selectedDateInput.split('/');
+        const selectedDate = new Date(`${year}-${month}-${day}`);
+        const formattedSelectedDate = selectedDate.toLocaleDateString("en-GB"); // Định dạng dd/MM/yyyy
+
+        // Lặp qua tất cả các hàng trong bảng có class "order-row"
+        document.querySelectorAll(".order-row").forEach(row => {
+            // Lấy ngày của đơn hàng từ thuộc tính data-order-date
+            const orderDate = row.getAttribute("data-order-date");
+
+            // Kiểm tra nếu ngày đơn hàng trùng với ngày đã chọn
+            if (formattedSelectedDate === orderDate) {
+                row.style.display = ""; // Hiển thị hàng
+            } else {
+                row.style.display = "none"; // Ẩn hàng
+            }
+        });
+    }
+</script>
+
+<style>
+    .form-group {
+        display: flex;
+        align-items: center;
+    }
+
+    .date-picker {
+        width: 150px;
+    }
+</style>

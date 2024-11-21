@@ -1,0 +1,109 @@
+﻿@model ShoppingWebsite.Models.Customer
+
+<h2>Thêm mới Khách Hàng</h2>
+
+<form asp-action="CreateCustomer">
+    <div class="form-group">
+        <label asp-for="Username"></label>
+        <input asp-for="Username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" type="password" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="FullName"></label>
+        <input asp-for="FullName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Role">Role</label>
+        <select id="Role" name="Role" class="form-control" asp-for="Role">
+            <option value="">-- Chọn danh mục --</option>
+            <option value="1">Admin</option>
+            <option value="2">Customer</option>
+        </select>
+        <span asp-validation-for="Role" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+            <label asp-for="Address"></label>
+            <input asp-for="Address" class="form-control" />
+           <div class="form-group">
+                <label asp-for="Phone"></label>
+                <input asp-for="Phone" class="form-control" />
+
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm Khách Hàng</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
+<style>    /* Container styling for the customer creation form */
+    form {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 28px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    /* Form group styling */
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 5px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+    /* Button styling */
+    button[type="submit"],
+    .btn-secondary {
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    button[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        color: #fff;
+        border: none;
+        margin-left: 10px;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+</style>

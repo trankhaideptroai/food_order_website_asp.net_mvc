@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h1>Quản lý hệ thống</h1>
+
+<!-- Toggle Buttons -->
+<div class="btn-group" role="group" aria-label="Dashboard Navigation">
+    <button id="showCustomerManagement" class="btn btn-primary">Quản lý Khách Hàng</button>
+    <button id="showProductManagement" class="btn btn-secondary">Quản lý Sản Phẩm</button>
+</div>
+
+<!-- AJAX Content Area -->
+<div id="contentArea">
+    <!-- Customer Management Content will load here initially -->
+</div>
+
+@section Scripts {
+    <script>
+        // Load Customer Management by default
+        $(document).ready(function () {
+            loadCustomerManagement();
+        });
+
+        // Event handler to load Customer Management
+        $('#showCustomerManagement').click(function () {
+            loadCustomerManagement();
+        });
+
+        // Event handler to load Product Management
+        $('#showProductManagement').click(function () {
+            loadProductManagement();
+        });
+
+        function loadCustomerManagement() {
+            $.ajax({
+                url: '@Url.Action("LoadCustomerManagement", "Admin")',
+                type: 'GET',
+                success: function (data) {
+                    $('#contentArea').html(data);
+                    $('#showCustomerManagement').addClass('btn-primary').removeClass('btn-secondary');
+                    $('#showProductManagement').addClass('btn-secondary').removeClass('btn-primary');
+                }
+            });
+        }
+
+        function loadProductManagement() {
+            $.ajax({
+                url: '@Url.Action("LoadProductManagement", "Admin")',
+                type: 'GET',
+                success: function (data) {
+                    $('#contentArea').html(data);
+                    $('#showProductManagement').addClass('btn-primary').removeClass('btn-secondary');
+                    $('#showCustomerManagement').addClass('btn-secondary').removeClass('btn-primary');
+                }
+            });
+        }
+    </script>
+}
