@@ -6,19 +6,31 @@ namespace ShoppingWebsite.Models
 {
     public class Order
     {
+        [Key]
+        public int OrderId { get; set; }
 
-        public int OrderId { get; set; }          // Khớp với cột OrderId trong bảng
-        public int CustomerId { get; set; }        // Khớp với cột CustomerId trong bảng
+        [Required]
+        public int CustomerId { get; set; }
+
+        [Required]
+        [Column(TypeName = "decimal(18,2)")]
         public decimal TotalAmount { get; set; }
+
+        [Required]
         public DateTime OrderDate { get; set; }
+
+        [Required]
+        [MaxLength(50)]
         public string OrderStatus { get; set; }
+
+        [MaxLength(255)]
         public string Address { get; set; }
+
+        [MaxLength(20)]
         public string Phone { get; set; }
 
-        // Khóa ngoại đến Customer
-        public Customer Customer { get; set; }
-
-        // Danh sách chi tiết đơn hàng
-        //public ICollection<OrderDetail> OrderDetails { get; set; }
+        // Foreign Key Relations (Optional, if needed)
+        public virtual Customer Customer { get; set; }
     }
+
 }

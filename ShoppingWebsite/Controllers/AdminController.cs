@@ -71,7 +71,7 @@ namespace ShoppingWebsite.Controllers
             _context.Products.Add(model);
             _context.SaveChanges();
             TempData["SuccessMessage"] = "Thêm sản phẩm thành công.";
-            return RedirectToAction("ProductList");
+            return View();
         }
 
 
