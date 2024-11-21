@@ -1,2 +1,9 @@
-# food_order_website_asp.net_mvc
-website order đồ ăn sử dụng asp .net mvc với mục đích học tập
+Dự án sử dụng code first !!
+
+Thay đổi DataSource trong appsetting.json
+
+Dự án xây dựng cho mục đích học tập
+
+File DataBase nằm trong sources của dự án mở bằng SqlSever và chạy file
+
+Thank You !
