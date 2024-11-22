@@ -173,11 +173,18 @@ namespace ShoppingWebsite.Controllers
         // Xóa khách hàng
         public IActionResult DeleteCustomer(int id)
         {
+            bool hasOrders = _context.Orders.Any(o => o.CustomerId == id);
+            if (hasOrders)
+            {
+                TempData["ErrorMessage"] = "Không thể xóa khách hàng vì vẫn còn đơn hàng liên quan.";
+                return View("Index");
+            }
             var customer = _context.Customers.SingleOrDefault(c => c.Id == id);
             if (customer != null)
             {
                 _context.Customers.Remove(customer);
                 _context.SaveChanges();
+                TempData["SuccessMessage"] = "Khách hàng đã được xóa thành công.";
             }
             return RedirectToAction("Index");
         }

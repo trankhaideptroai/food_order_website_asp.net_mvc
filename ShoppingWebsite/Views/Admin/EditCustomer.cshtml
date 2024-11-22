@@ -15,8 +15,8 @@
         <label for="Role">Role</label>
         <select id="Role" name="Role" class="form-control" asp-for="Role">
             <option value="">-- Chọn danh mục --</option>
-            <option value="1">Admin</option>
-            <option value="2">Customer</option>
+            <option value="Admin">Admin</option>
+            <option value="Customer">Customer</option>
         </select>
     <input type="hidden" asp-for="Password" value="@Model.Password" />
     <input type="hidden" asp-for="FullName" value="@Model.FullName" />
