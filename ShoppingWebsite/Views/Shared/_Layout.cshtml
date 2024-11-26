@@ -32,15 +32,9 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Home</a>
                         </li>
 
-                        @if (ViewData["IsProductIndex"] != null && (bool)ViewData["IsProductIndex"])
 
-                        {
-                            <li id="toggle-dark-mode" class="btn btn-outline-secondary" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
-                                Dark Mode
-                            </li>
-                        }
                         <!-- Nút Dashboard chỉ hiển thị nếu là Admin -->
-                        @if (Context.Session.GetString("Role")?.Trim() == "Admin")
+                        @if (Context.Session.GetString("Role") == "Admin")
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Index">Admin Dashboard</a>
@@ -54,7 +48,7 @@
 
                         }
 
-                        else if (Context.Session.GetString("Role")?.Trim() == "Customer")
+                        else if (Context.Session.GetString("Role") == "Customer")
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>

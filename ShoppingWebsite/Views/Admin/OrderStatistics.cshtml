@@ -27,18 +27,18 @@
         {
             @foreach (var order in Model)
             {
-                <tr class="order-row" data-order-date="@order.OrderDate.ToString("dd/MM/yyyy")">
-                    <td>@order.OrderDate.ToString("dd/MM/yyyy")</td>
+                <tr class="order-row" data-order-date="@order.OrderDate?.ToString("dd/MM/yyyy")">
+                    <td>@order.OrderDate?.ToString("dd/MM/yyyy")</td>
                     <td>@order.Customer.FullName</td>
                     <td>@order.OrderStatus</td>
-                    <td>@order.TotalAmount.ToString("C")</td>
+                    <td>@order.TotalAmount?.ToString("C")</td>
                     <td>@order.Address</td>
                     <td>@order.Phone</td>
                     <td>
                         <form asp-action="UpdateOrderStatus" asp-controller="Admin" method="post" style="display:inline;">
                             <input type="hidden" name="orderId" value="@order.OrderId" />
                             <select name="status" class="form-control" onchange="this.form.submit()">
-                                <option value="">-- Chọn danh mục --</option>
+                                <option value="">-- Chọn trạng thái --</option>
                                 <option value="Pending">Chờ xử lý</option>
                                 <option value="Shipped">Đã giao hàng</option>
                                 <option value="Completed">Hoàn thành</option>
@@ -56,6 +56,19 @@
             </tr>
         }
     </tbody>
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
 </table>
 
 <script>

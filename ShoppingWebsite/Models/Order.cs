@@ -14,10 +14,10 @@ namespace ShoppingWebsite.Models
 
         [Required]
         [Column(TypeName = "decimal(18,2)")]
-        public decimal TotalAmount { get; set; }
+        public decimal? TotalAmount { get; set; }
 
         [Required]
-        public DateTime OrderDate { get; set; }
+        public DateTime? OrderDate { get; set; }
 
         [Required]
         [MaxLength(50)]

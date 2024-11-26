@@ -29,11 +29,55 @@
                     }
                 </td>
                 <td>
-                    <a asp-action="CreateProduct" class="btn btn-success">Thêm Sản Phẩm</a>
-                    <a href="@Url.Action("EditProduct", "Admin", new { id = product.Id })" class="btn btn-sm btn-warning">Sửa</a>
-                    <a href="@Url.Action("DeleteProduct", "Admin", new { id = product.Id })" class="btn btn-sm btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa sản phẩm này?')">Xóa</a>
+                    <div class="action-buttons d-flex align-items-center gap-2">
+                        <a asp-action="CreateProduct" class="btn btn-success btn-custom">Thêm sản phẩm</a>
+                        <a href="@Url.Action("EditProduct", "Admin", new { id = product.Id })" class="btn btn-warning btn-custom">Sửa</a>
+                        <form asp-action="DeleteProduct" asp-controller="Admin" method="post" class="mb-0">
+                            <input type="hidden" name="id" value="@product.Id" />
+                            <button class="btn btn-danger btn-custom" type="submit">Xóa</button>
+                        </form>
+                    </div>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+<style>
+    <style >
+    <style >
+    /* Container Flexbox */
+    .action-buttons {
+        display: flex;
+        align-items: center; /* Căn giữa các nút theo chiều dọc */
+        gap: 10px; /* Khoảng cách giữa các nút */
+    }
+
+    /* Đồng bộ kích thước nút */
+    /* Đồng bộ kích thước nút */
+    .btn-custom {
+        display: flex; /* Kích hoạt Flexbox */
+        justify-content: center; /* Canh giữa theo chiều ngang */
+        align-items: center; /* Canh giữa theo chiều dọc */
+        width: 120px; /* Chiều rộng đồng nhất */
+        height: 40px; /* Chiều cao đồng nhất */
+        font-size: 14px; /* Đồng bộ kích thước chữ */
+        padding: 0; /* Xóa padding mặc định */
+        text-align: center; /* Căn chữ nằm giữa */
+        border-radius: 4px; /* Bo góc nhẹ */
+        white-space: nowrap; /* Ngăn chữ xuống dòng */
+    }
+
+
+    /* Xóa margin và padding mặc định của form */
+    .action-buttons form {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Tùy chỉnh thêm cho nút Xóa nếu cần */
+    .btn-delete {
+        background-color: #dc3545; /* Màu đỏ */
+        color: white;
+        border: 1px solid #dc3545;
+    }
+</style>

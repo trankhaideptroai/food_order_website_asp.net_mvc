@@ -1,100 +1,63 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ShoppingWebsite.Data;
-using ShoppingWebsite.Models; // Đảm bảo bạn đã nhập đúng namespace
-using System.Linq;
+using ShoppingWebsite.Interfaces;
+using ShoppingWebsite.Models;
 
 namespace ShoppingWebsite.Controllers
 {
     public class AccountController : Controller
     {
-        private readonly ApplicationDbContext _context;
+        private readonly IAccountService _accountService;
 
-        public AccountController(ApplicationDbContext context)
+        public AccountController(IAccountService accountService)
         {
-            _context = context;
+            _accountService = accountService;
         }
 
         public IActionResult Login()
         {
-            // Kiểm tra xem người dùng đã đăng nhập chưa
-            if (HttpContext.Session.GetString("Username") != null)
+            if (_accountService.IsUserLoggedIn(HttpContext))
             {
-                return RedirectToAction("Index", "Products"); // Chuyển hướng đến trang Products
+                return RedirectToAction("Index", "Products");
             }
 
-            return View(); // Nếu chưa đăng nhập, hiển thị view đăng nhập
+            return View();
         }
 
         [HttpPost]
         public IActionResult Login(Customer model)
         {
-            var user = _context.Customers.SingleOrDefault(u => u.Username == model.Username && u.Password == model.Password);
-            if (user != null)
+            if (_accountService.Login(HttpContext, model))
             {
-                // Lưu thông tin đăng nhập vào session
-                HttpContext.Session.SetString("Role", user.Role); // Đảm bảo vai trò được lưu đúng
-                HttpContext.Session.SetString("Username", user.Username);
-                var cookieOptions = new CookieOptions
-                {
-                    Expires = DateTime.Now.AddDays(7), // Cookie sẽ hết hạn sau 7 ngày 
-                };
-                Response.Cookies.Append("Username", user.Username, cookieOptions);
-                var role = HttpContext.Session.GetString("Role");
-                if (!string.IsNullOrEmpty(role) && role.Trim() == "Admin")
-                {
-                    return RedirectToAction("Index", "Admin");
-                }
-                else
-                {
-                    return RedirectToAction("Index", "Products");
-                }
-                
+                return RedirectToAction("Index", "Products");
             }
 
-            // Thêm thông báo vào TempData khi đăng nhập thất bại
-            TempData["ErrorMessage"] = "Tài khoản hoặc mật khẩu không đúng.";
+            TempData["ErrorMessage"] = "Tên đăng nhập hoặc mật khẩu không đúng.";
             return View(model);
         }
 
-
         public IActionResult Register()
         {
-            // Kiểm tra xem người dùng đã đăng nhập chưa
-            if (HttpContext.Session.GetString("Username") != null)
-            {
-                return RedirectToAction("Index", "Products"); // Chuyển hướng đến trang Products
-            }
-
-            return View(); // Nếu chưa đăng nhập, hiển thị view đăng ký
+            return View();
         }
 
         [HttpPost]
         public IActionResult Register(Customer model)
         {
-            var role = "Customer";
-            if (ModelState.IsValid)
+            if (_accountService.Register(model))
             {
-                // Gán vai trò mặc định là "Customer"
-                model.Role = role;
-
-                _context.Customers.Add(model);  // Thêm thông tin khách hàng vào cơ sở dữ liệu
-                _context.SaveChanges();  // Lưu thay đổi
-
-                TempData["SuccessMessage"] = "Đăng ký thành công. Vui lòng đăng nhập.";
+                TempData["SuccessMessage"] = "Đăng ký thành công!";
                 return RedirectToAction("Login");
             }
 
-            TempData["ErrorMessage"] = "Đăng ký không thành công. Vui lòng kiểm tra lại.";
+            TempData["ErrorMessage"] = "Tên đăng nhập đã tồn tại.";
             return View(model);
         }
-        [HttpGet]
+
         public IActionResult Logout()
         {
-            // Logic đăng xuất
-            Response.Cookies.Delete("Username");
-            // Xóa session
-            HttpContext.Session.Clear();
-            return RedirectToAction("Index", "Products");
+            _accountService.Logout(HttpContext);
+            return RedirectToAction("Login");
         }
+
     }
 }
